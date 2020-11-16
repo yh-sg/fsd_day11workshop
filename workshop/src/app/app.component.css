@@ -1,0 +1,22 @@
+h1{
+    color: red;
+    text-decoration: underline;
+}
+
+i{
+    color:purple;
+}
+
+em{
+    color: blue;
+    font-weight: bold;
+}
+
+h3{
+    color: forestgreen;
+}
+
+img{
+    width: 300px;
+    height: 250px;
+}
